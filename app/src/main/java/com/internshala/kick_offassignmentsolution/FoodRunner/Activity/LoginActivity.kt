@@ -1,4 +1,4 @@
-package com.internshala.kick_offassignmentsolution
+package com.internshala.kick_offassignmentsolution.FoodRunner.Activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
+import com.internshala.kick_offassignmentsolution.R
 
 class LoginActivity : AppCompatActivity() {
 

@@ -9,11 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DashboardActivity"></activity>
-        <activity android:name=".ForgotPasswordActivity" />
-        <activity android:name=".RegisterActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".SplashActivity">
+        <activity android:name=".FoodRunner.Activity.DashboardActivity"></activity>
+        <activity android:name=".FoodRunner.Activity.ForgotPasswordActivity" />
+        <activity android:name=".FoodRunner.Activity.RegisterActivity" />
+        <activity android:name=".FoodRunner.Activity.LoginActivity" />
+        <activity android:name=".FoodRunner.Activity.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
