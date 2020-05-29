@@ -6,17 +6,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".FoodRunner.Activity.DashboardActivity">
-
-    <TextView
-        android:id="@+id/txtData"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="20dp"
-        android:padding="10dp"
-        android:text="Here comes the data"
-        android:textColor="@android:color/black"
-        android:textSize="20sp" />
-
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:id="@+id/coordinatorLayout"
         android:layout_width="match_parent"
